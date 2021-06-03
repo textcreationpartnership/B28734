@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered against the passing of a bill, for the sole use of convex-lights, or glasses.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28734</idno><idno type="EEBO-CITATION">99882344</idno>
+  <idno type="VID">186249</idno>
+  <idno type="EEBO-PROQUEST">2240887057</idno>
+  
+            <idno type="STC">Wing R529C</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[47]</idno>
+            <idno type="STC">ESTC N22436</idno>
+            <idno type="PROQUEST">ocm99882344</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99882344e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28734)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186249)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[46])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered against the passing of a bill, for the sole use of convex-lights, or glasses.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1692 and 1705]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>ESTC dates this item 1705?.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Street lighting --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186249:1"/>
+            <pb facs="tcp:186249:1"/>
+            <head>REASONS Humbly offered against the Passing of a BILL, For the Sole USE of <hi>Convex-Lights, or Glasses.</hi>
+            </head>
+            <p n="1">I. IT is conceived the Patent (the Time wherein is now desired to be enlarged) is void in Law, not being granted to the Inventer of the said Lights.</p>
+            <p n="2">II. That since the said Lights have been set up, other Persons have set up the same Lights which the Patentee, or those who pretend to claim under him could not restrain, although they endeavoured so to do, their Patent being void as aforesaid.</p>
+            <p n="3">III. Their Patent gives no particular Power to the Patentee, to make or use Convex Glasses, but is a Grant only for the great Increase of Light by extraordinary Glasses and Lamps useful for Light and Heat.</p>
+            <p n="4">IV. Convex Glasses were in use for Light, many Years before the said Patent granted; therefore Convex-Lights could not be those intended by the said Patent as a New Invention.</p>
+            <p n="5">V. That in truth the many Thousand Pounds alledged to be expended in carrying on the Invention of the said Convex-Lights, has not been really expended therein for the Publick Use; but the greatest part thereof has been exhausted in Stock-Jobbing, by selling one of their Shares for 1100, or 1200 <hi>l.</hi> which lately were sold for about 200 <hi>l.</hi> and by their giving great Sums of Money to others who would have set up their Lights, whom they could not restrain by their said Patent.</p>
+            <p n="6">VI. The Lights pretended to be so useful to the Publick, we know to be quite otherwise, by reason of their Darks and Shades, and Dazling the Eyes, and other Defects, and by their going out in divers places by Nine of the Clock, or before that time.</p>
+            <p n="7">VII. Whereas there is invented a New Light, called, <hi>The Light-Royal,</hi> much more useful and beneficial to the Publick, than any Light now in use, being one entire Glass giving or spreading Light all round about, and underneath the same, without Darks or Shades, and a curious pleasant Light to the Eye, and much clearer, and giving Light farther than those now abroad do, and not dazling or prejudicial to the Eyes.</p>
+            <p n="8">VIII. That the said Light-Royal is fit to be used in all Churches, Halls, Courts, Work-rooms, Staircases, Stables, and other places where the other Lights cannot be used, by reason of their dark Shades, dazling of the Eyes, and other defects.</p>
+            <p n="9">IX. This Light-Royal is the more beneficial to the Publick, because much more Glass (now a considerable Manufacture of this Kingdom) is used about the same, than in any other Light now in use.</p>
+            <p n="10">X. That this Light will be afforded much cheaper to the People, nor will any Oyl drop from the same, to the annoyance of any Body. And therefore it is hoped, That the Persons concerned in these New-invented Lights, shall not be discouraged from using or setting up any thing invented for the Publick Good, by those other Persons concerned in the Lights now in use, who desire to Monopolize those Lights, exclusive of any other.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
